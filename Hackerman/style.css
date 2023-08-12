@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    background-color: black;
+}
+.header{
+    text-align: center;
+
+}
+.body{
+    background-color: black;
+    color: white;
+}
+.cont{
+    color: green;
+}
